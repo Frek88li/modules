@@ -1,0 +1,8 @@
+DateTime==5.4
+PyMonCtl==0.7
+pytz==2024.1
+pywin32==306
+PyWinBox==0.6
+PyWinCtl==0.3
+typing_extensions==4.9.0
+zope.interface==6.1
